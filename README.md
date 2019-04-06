@@ -9,7 +9,7 @@ Conteúdo didático criado para um grupo fechado apenas de mulheres, porém o co
 
 **O que preciso para começar?**
 
-- Inicialmente apenas do navegador Chrome e do seu cérebro, mas já peço para que você crie uma cont aqui nesse site, Github, pois futuramente iremos precisar para enviar os exercícios. Entretanto, não se preocupe que ensinarei todos esses passos com calma e da forma mais lúdica possível.
+- Inicialmente apenas do navegador Chrome, UM COMPUTADOR pois no celular seria muito complexo nesse início; e do seu cérebro, mas já peço para que você crie uma conta aqui nesse site, Github, pois futuramente iremos precisar para enviar os exercícios. Entretanto, não se preocupe que ensinarei todos esses passos com calma e da forma mais lúdica possível.
 
 **Quando vai iniciar?**
 
